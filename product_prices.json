@@ -1,0 +1,68 @@
+{
+  "smartphone samsung galaxy s23": {
+    "Amazon": {
+      "title": "Smartphone Samsung Galaxy S23 128GB Preto 5G - Tela 6.1\" Câm. Tripla 50MP + 12MP + 10MP",
+      "price": "R$ 4.499,00",
+      "url": "https://www.amazon.com.br/Smartphone-Samsung-Galaxy-S23-128GB/dp/B0BQXJJJXR"
+    },
+    "Mercado Livre": {
+      "title": "Smartphone Samsung Galaxy S23 128GB Preto 5G - Tela 6.1\" Câm. Tripla 50MP + 12MP + 10MP",
+      "price": "R$ 4.499,00",
+      "url": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-s23-128gb-preto-5g-tela-61-cam-tripla-50mp-12mp-10mp/p/MLB20524524"
+    },
+    "Magazine Luiza": {
+      "title": "Smartphone Samsung Galaxy S23 128GB Preto 5G - Tela 6.1\" Câm. Tripla 50MP + 12MP + 10MP",
+      "price": "R$ 4.499,00",
+      "url": "https://www.magazineluiza.com.br/smartphone-samsung-galaxy-s23-128gb-preto-5g-tela-61-cam-tripla-50mp-12mp-10mp/p/235524600/te/sams23/"
+    },
+    "timestamp": "2025-04-18 00:11:27"
+  },
+  "notebook dell inspiron": {
+    "Amazon": {
+      "title": "Dell Inspiron 15 3000 Notebook - Intel Core i5-1135G7, 8GB RAM, 256GB SSD, Tela 15.6\" FHD, Windows 11 Home - Prata",
+      "price": "R$ 3.999,00",
+      "url": "https://www.amazon.com.br/Dell-Inspiron-Notebook-i5-1135G7-Windows/dp/B09JQXJJXR"
+    },
+    "Mercado Livre": {
+      "title": "Notebook Dell Inspiron 15 3000 I3501-M10P 15.6\" Intel Core i5 8GB 256GB SSD Windows 11 Home",
+      "price": "R$ 3.799,00",
+      "url": "https://www.mercadolivre.com.br/notebook-dell-inspiron-15-3000-i3501-m10p-156-intel-core-i5-8gb-256gb-ssd-windows-11-home/p/MLB18847524"
+    },
+    "Magazine Luiza": {
+      "title": "Notebook Dell Inspiron 15 3000 i3501-M10P 15.6\" Intel Core i5 8GB 256GB SSD Windows 11 Home",
+      "price": "R$ 3.799,00",
+      "url": "https://www.magazineluiza.com.br/notebook-dell-inspiron-15-3000-i3501-m10p-156-intel-core-i5-8gb-256gb-ssd-windows-11-home/p/233524900/in/note/"
+    },
+    "timestamp": "2025-04-18 00:11:47"
+  },
+  "smart tv 50 polegadas": {
+    "Amazon": {
+      "title": "Smart TV LG 50 Polegadas 4K UHD AI ThinQ LG 50UP7750PSB",
+      "price": "R$ 2.499,00",
+      "url": "https://www.amazon.com.br/Smart-Polegadas-UHD-ThinQ-50UP7750PSB/dp/B08XJJJJJJ"
+    },
+    "Mercado Livre": {
+      "title": "Smart Tv 50 Polegadas 4k Uhd Lg 50up7750 Wi-fi Bluetooth",
+      "price": "R$ 2.499,00",
+      "url": "https://www.mercadolivre.com.br/smart-tv-50-polegadas-4k-uhd-lg-50up7750-wi-fi-bluetooth/p/MLB18765432"
+    },
+    "Magazine Luiza": {
+      "title": "Smart TV LG 50 Polegadas 4K UHD AI ThinQ LG 50UP7750PSB",
+      "price": "R$ 2.499,00",
+      "url": "https://www.magazineluiza.com.br/smart-tv-lg-50-polegadas-4k-uhd-ai-thinq-lg-50up7750psb/p/231456789/tv/smart-tv-4k/"
+    },
+    "timestamp": "2025-04-18 00:12:08"
+  },
+  "Geladeira Consul Frost Free Duplex 340 litros Branca CRM39ABA": {
+    "error": "'AgentHistoryList' object does not support item assignment",
+    "timestamp": "2025-04-18 00:49:00"
+  },
+  "Máquina De Lavar Consul 9kg Lavagem Econômica Branca CWB09BB": {
+    "error": "'AgentHistoryList' object does not support item assignment",
+    "timestamp": "2025-04-18 00:51:24"
+  },
+  "Fritadeira Elétrica Air Fryer Elgin 5L Space 127V AFC50": {
+    "error": "'AgentHistoryList' object does not support item assignment",
+    "timestamp": "2025-04-18 00:57:40"
+  }
+}
